@@ -1,0 +1,17 @@
+{
+  "name": "Dompetku v10 Mobile",
+  "short_name": "Dompetku",
+  "description": "Aplikasi manajemen keuangan multi-tab",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#4f46e5",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2341/2341851.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
